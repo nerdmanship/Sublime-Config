@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"caniuse_local",
+		"Clipboard Manager",
+		"CSS Snippets",
+		"Gist",
+		"GSAP Snippets",
+		"Jade",
+		"Jade Snippets",
+		"JS Snippets",
+		"Package Control",
+		"SCSS",
+		"SideBarEnhancements",
+		"SnippetMaker"
+	]
+}
