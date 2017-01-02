@@ -1,7 +1,7 @@
 <snippet>
   <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
   <content><![CDATA[
-var ${1:name} = new TimelineMax({ ${2:opts} });
+var ${1:name} = new TimelineMax({ ${2:paused: true} });
 ${1:name}.${3:to}( ${4:elem}, ${5:1}, { ${6:property}: ${7:value} });
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
