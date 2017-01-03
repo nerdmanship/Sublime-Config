@@ -17,6 +17,8 @@
 		"SCSS",
 		"SideBarEnhancements",
 		"SnippetMaker",
-		"SublimeLinter"
+		"SublimeLinter",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint"
 	]
 }
