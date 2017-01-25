@@ -2,14 +2,21 @@
   <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
   <content><![CDATA[
 
-//  ${1:NAME}
-//  Keywords: ${2:keywords}
+
+/*
 ///////////////////////////////////////
+
+  End of ${1:NAME}
+
+##############################################################################
+*/
+
+
 
 ]]></content>
   <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-  <tabTrigger>#h2</tabTrigger>
-  <description>HEADLINE 2</description>
+  <tabTrigger>#end</tabTrigger>
+  <description>End of section</description>
   <!-- Optional: Set a scope to limit where the snippet will trigger -->
   <scope>source.js</scope>
 </snippet>
