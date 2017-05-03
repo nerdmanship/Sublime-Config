@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
 		"caniuse_local",
 		"Clipboard Manager",
 		"CSS Snippets",
